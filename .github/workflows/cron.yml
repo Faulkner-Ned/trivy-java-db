@@ -6,7 +6,7 @@ on:
 
 env:
   DB_VERSION: 1
-  GH_OWNER: faulkner-ned
+  GH_OWNER: StevieGS
   IMAGE_NAME: java-vuln-db-localbuild
   REGISTRY: ghcr.io
 
